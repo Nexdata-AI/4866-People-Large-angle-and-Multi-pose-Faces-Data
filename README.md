@@ -3,7 +3,7 @@
 ## Description
 4,866 People Large-angle and Multi-pose Faces Data. Each subject were collected 60 images under different scenes and light conditions. This data can be used for face recognition related tasks.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1177?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1177?source=Github
 
 
 # Specifications
